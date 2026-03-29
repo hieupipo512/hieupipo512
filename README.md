@@ -1,5 +1,5 @@
-# Hi there, I'm [Phạm Trung Hiếu] 👋
-### 🎓 IT Student |Developer
+# Hello, I'm [Phạm Trung Hiếu] 👋
+### 🎓 IT Student | Developer
 ---
 
 ### 🛠 Languages and Tools
